@@ -1,4 +1,4 @@
-# DoS Vulnerability in the Wemo Switch 28B
+# DoS Vulnerability in the Wemo Switch 28B (CVE-2019-17532)
 
 The Wemo Switch is a smart socket developed by Belkin. In this blogpost, I consider the Wemo switch 28B, whereas the firmware version is WeMo_WW_2.00.11057.PVT-OWRT-SNS.
 
